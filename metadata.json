@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Photo Fan Crete",
+  "description": "Exclusive, luxury photography services for resort guests and golden hour couples in Hersonissos, Crete, Greece.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
